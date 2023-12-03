@@ -1,0 +1,11 @@
+dist
+public
+env
+build
+.vscode
+.husky
+.DS_Store
+.github
+typings
+README.md
+node_modules
